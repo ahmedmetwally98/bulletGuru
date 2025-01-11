@@ -1,0 +1,250 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 166908 11648 ?        Ss   ديس23   0:04 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    ديس23   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    ديس23   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-netns]
+root          12  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-mm_pe]
+root          13  0.0  0.0      0     0 ?        I    ديس23   0:00 [rcu_tasks_kthread]
+root          14  0.0  0.0      0     0 ?        I    ديس23   0:00 [rcu_tasks_rude_kthread]
+root          15  0.0  0.0      0     0 ?        I    ديس23   0:00 [rcu_tasks_trace_kthread]
+root          16  0.0  0.0      0     0 ?        S    ديس23   0:04 [ksoftirqd/0]
+root          17  0.0  0.0      0     0 ?        I    ديس23   0:03 [rcu_preempt]
+root          18  0.0  0.0      0     0 ?        S    ديس23   0:00 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    ديس23   0:00 [idle_inject/0]
+root          20  0.0  0.0      0     0 ?        S    ديس23   0:00 [cpuhp/0]
+root          21  0.0  0.0      0     0 ?        S    ديس23   0:00 [cpuhp/1]
+root          22  0.0  0.0      0     0 ?        S    ديس23   0:00 [idle_inject/1]
+root          23  0.0  0.0      0     0 ?        S    ديس23   0:00 [migration/1]
+root          24  0.0  0.0      0     0 ?        S    ديس23   0:00 [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/1:0H-events_highpri]
+root          27  0.0  0.0      0     0 ?        S    ديس23   0:00 [cpuhp/2]
+root          28  0.0  0.0      0     0 ?        S    ديس23   0:00 [idle_inject/2]
+root          29  0.0  0.0      0     0 ?        S    ديس23   0:00 [migration/2]
+root          30  0.0  0.0      0     0 ?        S    ديس23   0:01 [ksoftirqd/2]
+root          32  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/2:0H-events_highpri]
+root          33  0.0  0.0      0     0 ?        S    ديس23   0:00 [cpuhp/3]
+root          34  0.0  0.0      0     0 ?        S    ديس23   0:00 [idle_inject/3]
+root          35  0.0  0.0      0     0 ?        S    ديس23   0:00 [migration/3]
+root          36  0.0  0.0      0     0 ?        S    ديس23   0:00 [ksoftirqd/3]
+root          38  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/3:0H-events_highpri]
+root          39  0.0  0.0      0     0 ?        S    ديس23   0:00 [kdevtmpfs]
+root          40  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-inet_]
+root          42  0.0  0.0      0     0 ?        S    ديس23   0:00 [kauditd]
+root          44  0.0  0.0      0     0 ?        S    ديس23   0:00 [khungtaskd]
+root          45  0.0  0.0      0     0 ?        S    ديس23   0:00 [oom_reaper]
+root          47  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-write]
+root          48  0.0  0.0      0     0 ?        S    ديس23   0:01 [kcompactd0]
+root          49  0.0  0.0      0     0 ?        SN   ديس23   0:00 [ksmd]
+root          50  0.0  0.0      0     0 ?        SN   ديس23   0:00 [khugepaged]
+root          51  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-kinte]
+root          52  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-kbloc]
+root          53  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-blkcg]
+root          54  0.0  0.0      0     0 ?        S    ديس23   0:00 [irq/9-acpi]
+root          56  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-tpm_d]
+root          57  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-ata_s]
+root          58  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-md]
+root          59  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-md_bi]
+root          60  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-edac-]
+root          61  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-devfr]
+root          64  0.0  0.0      0     0 ?        S    ديس23   0:00 [watchdogd]
+root          65  0.0  0.0      0     0 ?        I<   ديس23   0:01 [kworker/0:1H-events_highpri]
+root          66  0.0  0.0      0     0 ?        S    ديس23   0:00 [kswapd0]
+root          67  0.0  0.0      0     0 ?        S    ديس23   0:00 [ecryptfs-kthread]
+root          68  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-kthro]
+root          69  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-acpi_]
+root          71  0.0  0.0      0     0 ?        I    ديس23   0:03 [kworker/2:3-cgroup_destroy]
+root          72  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-mld]
+root          73  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/2:1H-events_highpri]
+root          74  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-ipv6_]
+root          81  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-kstrp]
+root          83  0.0  0.0      0     0 ?        I<   ديس23   0:03 [kworker/u9:0-i915_flip]
+root          96  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-charg]
+root         115  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/1:1H-events_highpri]
+root         141  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/3:1H]
+root         146  0.0  0.0      0     0 ?        I    ديس23   0:03 [kworker/3:2-kacpi_notify]
+root         147  0.0  0.0      0     0 ?        S    ديس23   0:00 [scsi_eh_0]
+root         148  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-scsi_]
+root         149  0.0  0.0      0     0 ?        S    ديس23   0:00 [scsi_eh_1]
+root         150  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-scsi_]
+root         174  0.0  0.0      0     0 ?        S    ديس23   0:00 [irq/51-DLLC6B2:00]
+root         185  0.0  0.0      0     0 ?        S    ديس23   0:00 [scsi_eh_2]
+root         186  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-scsi_]
+root         187  0.0  0.0      0     0 ?        S    ديس23   0:00 [usb-storage]
+root         188  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-uas]
+root         208  0.0  0.0      0     0 ?        S    ديس23   0:00 [jbd2/sda7-8]
+root         209  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-ext4-]
+root         248  0.0  0.2  65132 17048 ?        S<s  ديس23   0:01 /lib/systemd/systemd-journald
+root         313  0.0  0.1  28292  8064 ?        Ss   ديس23   0:02 /lib/systemd/systemd-udevd
+root         387  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-cfg80]
+root         389  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-crypt]
+root         393  0.0  0.0      0     0 ?        S    ديس23   0:00 [irq/132-mei_me]
+root         447  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-kmems]
+root         459  0.1  0.0      0     0 ?        S    ديس23   0:27 [irq/133-iwlwifi]
+root         653  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-ttm]
+root         668  0.0  0.0      0     0 ?        S    ديس23   0:00 [card1-crtc0]
+root         669  0.0  0.0      0     0 ?        S    ديس23   0:00 [card1-crtc1]
+root         670  0.0  0.0      0     0 ?        S    ديس23   0:00 [card1-crtc2]
+root         675  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/R-ttm]
+systemd+     836  0.2  0.0  14836  6784 ?        Ss   ديس23   0:48 /lib/systemd/systemd-oomd
+systemd+     837  0.0  0.1  25932 13928 ?        Ss   ديس23   0:01 /lib/systemd/systemd-resolved
+systemd+     838  0.0  0.0  89388  7168 ?        Ssl  ديس23   0:00 /lib/systemd/systemd-timesyncd
+root         873  0.0  0.0 248656  7500 ?        Ssl  ديس23   0:00 /usr/libexec/accounts-daemon
+root         874  0.0  0.0   2816  1792 ?        Ss   ديس23   0:00 /usr/sbin/acpid
+avahi        877  0.0  0.0   7716  3840 ?        Ss   ديس23   0:00 avahi-daemon: running [meto.local]
+root         878  0.0  0.0  10596  5120 ?        Ss   ديس23   0:00 /usr/lib/bluetooth/bluetoothd
+root         879  0.0  0.0  18156  2688 ?        Ss   ديس23   0:00 /usr/sbin/cron -f -P
+message+     880  0.0  0.0  11108  6656 ?        Ss   ديس23   0:04 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         881  0.0  0.2 270000 18740 ?        Ssl  ديس23   0:06 /usr/sbin/NetworkManager --no-daemon
+root         887  0.0  0.0  82768  3840 ?        Ssl  ديس23   0:03 /usr/sbin/irqbalance --foreground
+root         888  0.0  0.2  49708 20992 ?        Ss   ديس23   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         889  0.0  0.1 251736 11272 ?        Ssl  ديس23   0:03 /usr/libexec/polkitd --no-debug
+root         890  0.0  0.0 248768  7212 ?        Ssl  ديس23   0:00 /usr/libexec/power-profiles-daemon
+syslog       891  0.0  0.0 222428  6400 ?        Ssl  ديس23   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         894  0.0  0.4 1469264 35136 ?       Ssl  ديس23   0:06 /usr/lib/snapd/snapd
+root         895  0.0  0.0 245044  6144 ?        Ssl  ديس23   0:00 /usr/libexec/switcheroo-control
+root         897  0.0  0.1  48276  8180 ?        Ss   ديس23   0:01 /lib/systemd/systemd-logind
+root         898  0.0  0.1 137260  9984 ?        Ssl  ديس23   0:02 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         899  0.0  0.1 393808 14624 ?        Ssl  ديس23   0:05 /usr/libexec/udisks2/udisksd
+root         900  0.0  0.1  17696 11136 ?        Ss   ديس23   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        931  0.0  0.0   7444  1280 ?        S    ديس23   0:00 avahi-daemon: chroot helper
+root         990  0.0  0.1 244236 12116 ?        Ssl  ديس23   0:00 /usr/sbin/ModemManager
+root        1032  0.0  0.2 126848 23936 ?        Ssl  ديس23   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1051  0.0  0.1 250008  8832 ?        Ssl  ديس23   0:00 /usr/sbin/gdm3
+root        1071  0.0  0.0      0     0 ?        I<   ديس23   0:00 [kworker/0:2H-kblockd]
+kernoops    1080  0.0  0.0  13092  2212 ?        Ss   ديس23   0:00 /usr/sbin/kerneloops --test
+kernoops    1082  0.0  0.0  13092  2212 ?        Ss   ديس23   0:00 /usr/sbin/kerneloops
+root        1124  1.1  0.7 1304036 61624 ?       Sl   ديس23   3:06 /opt/teamviewer/tv_bin/teamviewerd -d
+rtkit       1182  0.0  0.0 154004  3072 ?        SNsl ديس23   0:00 /usr/libexec/rtkit-daemon
+root        1345  0.0  0.1 251144  8832 ?        Ssl  ديس23   0:02 /usr/libexec/upowerd
+root        1351  0.0  0.7 381488 62764 ?        Ssl  ديس23   0:10 /usr/libexec/packagekitd
+colord      1563  0.0  0.1 254148 13320 ?        Ssl  ديس23   0:00 /usr/libexec/colord
+root        1668  0.0  0.0      0     0 ?        I    ديس23   0:02 [kworker/1:0-events]
+root        1686  0.0  0.1 179396 10628 ?        Sl   ديس23   0:00 gdm-session-worker [pam/gdm-password]
+devgeek     1701  0.0  0.1  18120 10624 ?        Ss   ديس23   0:01 /lib/systemd/systemd --user
+devgeek     1704  0.0  0.0 170192  5964 ?        S    ديس23   0:00 (sd-pam)
+devgeek     1710  0.0  0.0 115060  7948 ?        S<sl ديس23   0:02 /usr/bin/pipewire
+devgeek     1711  0.0  0.0  32268  6400 ?        Ssl  ديس23   0:05 /usr/bin/pipewire-media-session
+devgeek     1712  3.6  0.3 2031468 29844 ?       S<sl ديس23   9:02 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+devgeek     1728  0.0  0.0   9912  5632 ?        Ss   ديس23   0:05 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+devgeek     1729  0.0  0.0 545700  7552 ?        Ssl  ديس23   0:00 /usr/libexec/xdg-document-portal
+devgeek     1732  0.0  0.0 244808  5888 ?        Ssl  ديس23   0:00 /usr/libexec/xdg-permission-store
+root        1739  0.0  0.0   2796  1792 ?        Ss   ديس23   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+devgeek     1752  0.0  0.0 249672  7324 ?        Sl   ديس23   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+devgeek     1764  0.0  0.0 171052  5760 tty2     Ssl+ ديس23   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+devgeek     1767  0.0  0.1 231704 15616 tty2     Sl+  ديس23   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+root        1807  0.0  0.0      0     0 ?        S<   ديس23   0:00 [krfcommd]
+devgeek     1820  0.0  0.0 100572  5504 ?        Ssl  ديس23   0:00 /usr/libexec/gnome-session-ctl --monitor
+devgeek     1830  0.0  0.0 249312  7680 ?        Ssl  ديس23   0:00 /usr/libexec/gvfsd
+devgeek     1835  0.0  0.0 380896  6656 ?        Sl   ديس23   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+devgeek     1850  0.0  0.2 732812 17664 ?        Ssl  ديس23   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+devgeek     1869  0.0  0.0 309648  7552 ?        Sl   ديس23   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+devgeek     1877  0.0  0.0   8564  4352 ?        S    ديس23   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+devgeek     1880  2.1  3.8 5639416 306012 ?      Rsl  ديس23   5:14 /usr/bin/gnome-shell
+devgeek     1922  0.0  0.2 583032 20992 ?        Sl   ديس23   0:00 /usr/libexec/gnome-shell-calendar-server
+geoclue     1924  0.0  0.3 379748 26356 ?        Ssl  ديس23   0:01 /usr/libexec/geoclue
+devgeek     1928  0.0  0.1 398556 11392 ?        Ssl  ديس23   0:01 /usr/libexec/gvfs-udisks2-volume-monitor
+devgeek     1938  0.0  0.3 1015364 25728 ?       Ssl  ديس23   0:00 /usr/libexec/evolution-source-registry
+devgeek     1939  0.0  0.0 323872  7936 ?        Ssl  ديس23   0:01 /usr/libexec/gvfs-afc-volume-monitor
+devgeek     1944  0.0  0.0 245124  6400 ?        Ssl  ديس23   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+devgeek     1951  0.0  0.0 245296  6528 ?        Ssl  ديس23   0:00 /usr/libexec/gvfs-goa-volume-monitor
+devgeek     1955  0.0  0.5 596704 41728 ?        Sl   ديس23   0:00 /usr/libexec/goa-daemon
+devgeek     1959  0.0  0.3 849184 30976 ?        Ssl  ديس23   0:00 /usr/libexec/evolution-calendar-factory
+devgeek     1970  0.0  0.0 157100  5760 ?        Ssl  ديس23   0:00 /usr/libexec/dconf-service
+devgeek     1971  0.0  0.3 680956 28672 ?        Ssl  ديس23   0:00 /usr/libexec/evolution-addressbook-factory
+devgeek     1980  0.0  0.1 347064 15104 ?        Sl   ديس23   0:00 /usr/libexec/goa-identity-service
+devgeek     1988  0.0  0.0 246216  6912 ?        Ssl  ديس23   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+root        1990  0.0  0.0      0     0 ?        I    ديس23   0:09 [kworker/0:0-events]
+devgeek     2005  0.0  0.1 323536  8832 ?        Sl   ديس23   0:00 /usr/libexec/gvfsd-trash --spawner :1.13 /org/gtk/gvfs/exec_spaw/0
+devgeek     2017  0.0  0.3 2743252 27248 ?       Sl   ديس23   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+devgeek     2019  0.0  0.0 162688  7296 ?        Sl   ديس23   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+devgeek     2031  0.0  0.0   2892  1536 ?        Ss   ديس23   0:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+devgeek     2032  0.0  0.0 319116  6912 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-a11y-settings
+devgeek     2033  0.0  0.3 545276 27652 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-color
+devgeek     2035  0.0  0.1 323764 11844 ?        Sl   ديس23   0:01 /usr/bin/ibus-daemon --panel disable
+devgeek     2037  0.0  0.2 384152 16384 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-datetime
+devgeek     2039  0.0  0.1 320928  8064 ?        Ssl  ديس23   0:01 /usr/libexec/gsd-housekeeping
+devgeek     2040  0.0  0.2 349300 22116 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-keyboard
+devgeek     2042  0.0  0.3 872872 26872 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-media-keys
+devgeek     2047  0.0  0.3 798004 28420 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-power
+devgeek     2052  0.0  0.1 258516 11392 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-print-notifications
+devgeek     2053  0.0  0.0 466520  6912 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-rfkill
+devgeek     2057  0.0  0.0 244952  6400 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-screensaver-proxy
+devgeek     2058  0.0  0.1 474628 10752 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-sharing
+devgeek     2062  0.0  0.1 320996  8320 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-smartcard
+devgeek     2065  0.0  0.1 328032  9728 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-sound
+devgeek     2076  0.0  0.2 349852 22660 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-wacom
+devgeek     2111  0.0  0.8 772108 68084 ?        Sl   ديس23   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+devgeek     2113  0.0  0.1 232272  8192 ?        Sl   ديس23   0:00 /usr/libexec/gsd-disk-utility-notify
+devgeek     2115  0.0  0.2 190484 18944 ?        Sl   ديس23   0:00 python3 /usr/libexec/gnome-tweak-tool-lid-inhibitor
+devgeek     2117  0.0  0.0 245980  7296 ?        Sl   ديس23   0:00 /usr/libexec/ibus-dconf
+devgeek     2118  0.0  0.3 356508 29168 ?        Sl   ديس23   0:02 /usr/libexec/ibus-extension-gtk3
+devgeek     2139  0.0  0.0 245924  7296 ?        Sl   ديس23   0:00 /usr/libexec/ibus-portal
+devgeek     2154  0.0  0.1 351024 14976 ?        Sl   ديس23   0:00 /usr/libexec/gsd-printer
+devgeek     2197  0.0  0.0 172144  7296 ?        Sl   ديس23   0:00 /usr/libexec/ibus-engine-simple
+devgeek     2223  0.0  0.4 654728 33744 ?        SNsl ديس23   0:01 /usr/libexec/tracker-miner-fs-3
+devgeek     2257  0.0  2.2 913832 183024 ?       Sl   ديس23   0:09 /snap/snap-store/1216/usr/bin/snap-store --gapplication-service
+devgeek     2292  0.0  0.3 2612264 27800 ?       Sl   ديس23   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+devgeek     2323  0.0  0.7 2931568 63000 ?       Sl   ديس23   0:04 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1366:768:1:27:58:0:0:0
+devgeek     2368  0.0  0.1 632504 14592 ?        Ssl  ديس23   0:08 /usr/libexec/xdg-desktop-portal
+devgeek     2392  0.0  0.1  39128 11776 ?        Ss   ديس23   0:00 /snap/snapd-desktop-integration/253/usr/bin/snapd-desktop-integration
+devgeek     2393  0.0  0.7 1156992 57524 ?       Ssl  ديس23   0:10 /usr/libexec/xdg-desktop-portal-gnome
+devgeek     2442  0.0  0.3 429380 30100 ?        Sl   ديس23   0:00 /snap/snapd-desktop-integration/253/usr/bin/snapd-desktop-integration
+devgeek     2479  0.0  0.3 353224 25732 ?        Ssl  ديس23   0:00 /usr/libexec/xdg-desktop-portal-gtk
+devgeek     2520  0.0  0.0 171676  6400 ?        Ssl  ديس23   0:00 /usr/libexec/gvfsd-metadata
+devgeek     3073  0.0  1.1 700528 96204 ?        Sl   ديس23   0:06 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.KTE8Y2 -listen 4 -listen 5 -displayfd 6 -initfd 7
+devgeek     3155  0.0  1.0 836428 81124 ?        Ssl  ديس23   0:00 /usr/libexec/gsd-xsettings
+devgeek     3157  3.2  2.3 2816060 187964 ?      Sl   ديس23   8:04 /opt/teamviewer/tv_bin/TeamViewer
+devgeek     3210  0.0  0.3 202896 24712 ?        Sl   ديس23   0:00 /usr/libexec/ibus-x11
+devgeek     3680  0.0  0.3 502248 29056 ?        Sl   ديس23   0:01 update-notifier
+root        7555  0.0  0.1  81544 13696 ?        Ss   00:00   0:00 /usr/sbin/cupsd -l
+root        7566  0.0  0.1 172060 11136 ?        Ssl  00:00   0:00 /usr/sbin/cups-browsed
+root        7710  0.0  0.0      0     0 ?        I    01:29   0:00 [kworker/1:1-events]
+root        7744  0.1  0.0      0     0 ?        I<   01:29   0:03 [kworker/u9:1-rb_allocator]
+devgeek     7771  0.7  0.9 602976 74132 ?        Sl   01:30   0:16 /usr/bin/tilix --gapplication-service
+devgeek     7786  0.0  0.0  20180  5248 pts/0    Ss   01:30   0:00 /bin/bash
+root        8047  0.0  0.0      0     0 ?        I    01:30   0:00 [kworker/u8:4-events_unbound]
+root        8338  0.0  0.0      0     0 ?        I    01:34   0:00 [kworker/2:1-i915-unordered]
+root        8377  0.0  0.0      0     0 ?        I    01:40   0:00 [kworker/0:2-kacpi_notify]
+devgeek     8397  0.9  2.4 1214207440 193148 ?   SLsl 01:40   0:16 /usr/share/code/code .
+devgeek     8400  0.0  0.5 33798588 47872 ?      S    01:40   0:00 /usr/share/code/code --type=zygote --no-zygote-sandbox
+devgeek     8401  0.0  0.5 33798576 48128 ?      S    01:40   0:00 /usr/share/code/code --type=zygote
+devgeek     8403  0.0  0.1 33798604 11892 ?      S    01:40   0:00 /usr/share/code/code --type=zygote
+devgeek     8422  0.0  0.0 33576952 3584 ?       Sl   01:40   0:00 /usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/devgeek/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=e08b6da7-51f9-490a-9ced-d32ba0794f99&iid=e08b6da7-51f9-490a-9ced-d32ba0794f99&sid=e08b6da7-51f9-490a-9ced-d32ba0794f99 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.96.0 --annotation=lsb-release=Ubuntu 22.04.5 LTS --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=32.2.6 --initial-client-fd=48 --shared-client-connection
+devgeek     8439  1.0  1.7 34185764 139928 ?     Sl   01:40   0:17 /usr/share/code/code --type=gpu-process --crashpad-handler-pid=8422 --enable-crash-reporter=76a074d6-e04a-42ef-9605-4ea2ded07889,no_channel --user-data-dir=/home/devgeek/.config/Code --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=3,i,16971799405868775016,17460685567655145092,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+devgeek     8442  0.1  0.8 33848896 71516 ?      Sl   01:40   0:02 /usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=8422 --enable-crash-reporter=76a074d6-e04a-42ef-9605-4ea2ded07889,no_channel --user-data-dir=/home/devgeek/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16971799405868775016,17460685567655145092,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+devgeek     8453  4.3  3.5 1215897740 284656 ?   Sl   01:40   1:11 /usr/share/code/code --type=renderer --crashpad-handler-pid=8422 --enable-crash-reporter=76a074d6-e04a-42ef-9605-4ea2ded07889,no_channel --user-data-dir=/home/devgeek/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1734982602135179 --launch-time-ticks=14624522773 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16971799405868775016,17460685567655145092,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:e4880027-22e0-4788-a452-9d3b7fc5a707
+devgeek     8484  0.9  1.7 1213951756 137000 ?   Sl   01:40   0:16 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=8422 --enable-crash-reporter=76a074d6-e04a-42ef-9605-4ea2ded07889,no_channel --user-data-dir=/home/devgeek/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16971799405868775016,17460685567655145092,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+devgeek     8485  0.1  1.2 1213968708 98188 ?    Sl   01:40   0:02 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=8422 --enable-crash-reporter=76a074d6-e04a-42ef-9605-4ea2ded07889,no_channel --user-data-dir=/home/devgeek/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16971799405868775016,17460685567655145092,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+devgeek     8510  2.7  6.7 1221580924 541016 ?   Sl   01:40   0:45 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=8422 --enable-crash-reporter=76a074d6-e04a-42ef-9605-4ea2ded07889,no_channel --user-data-dir=/home/devgeek/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16971799405868775016,17460685567655145092,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version
+root        8569  0.0  0.0      0     0 ?        I    01:40   0:00 [kworker/3:1-events]
+devgeek     8570  0.0  1.0 1211968400 81940 ?    Sl   01:40   0:00 /usr/share/code/code /usr/share/code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=8510
+devgeek     8688  0.5  0.4  48296 32284 ?        Sl   01:43   0:07 /home/devgeek/.vscode/extensions/ms-vscode.cpptools-1.22.11-linux-x64/bin/cpptools
+root        8765  0.0  0.0      0     0 ?        I    01:45   0:00 [kworker/u8:1-events_power_efficient]
+devgeek     8795 15.8  5.1 3643840 409928 ?      Sl   02:02   0:49 /snap/firefox/5437/usr/lib/firefox/firefox
+root        8824  0.0  0.0      0     0 ?        I<   02:02   0:00 [kworker/u9:2]
+root        8975  0.1  0.0      0     0 ?        I    02:03   0:00 [kworker/u8:2-events_power_efficient]
+devgeek     9055  0.0  0.6 213412 49024 ?        Sl   02:03   0:00 /snap/firefox/5437/usr/lib/firefox/firefox -contentproc -parentBuildID 20241210134022 -prefsHandle 0 -prefsLen 34964 -prefMapHandle 1 -prefMapSize 260112 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {2f73475b-61e6-4f63-b27e-589df8a75e4b} -parentPid 8795 -crashReporter 5 -appDir /snap/firefox/5437/usr/lib/firefox/browser 1 socket
+devgeek     9073  1.6  1.7 2585196 140236 ?      Sl   02:03   0:04 /snap/firefox/5437/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0 -prefsLen 34964 -prefMapHandle 1 -prefMapSize 260112 -jsInitHandle 2 -jsInitLen 234660 -parentBuildID 20241210134022 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {ce2cf4f7-d694-4fca-9034-cf4d9e8e6bec} -parentPid 8795 -crashReporter 6 -greomni /snap/firefox/5437/usr/lib/firefox/omni.ja -appomni /snap/firefox/5437/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5437/usr/lib/firefox/browser 2 tab
+devgeek     9100  0.7  1.5 2477676 127248 ?      Sl   02:03   0:02 /snap/firefox/5437/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0 -prefsLen 35029 -prefMapHandle 1 -prefMapSize 260112 -jsInitHandle 2 -jsInitLen 234660 -parentBuildID 20241210134022 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {ed1f5c5c-71e1-475d-b49b-044591e12325} -parentPid 8795 -crashReporter 6 -greomni /snap/firefox/5437/usr/lib/firefox/omni.ja -appomni /snap/firefox/5437/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5437/usr/lib/firefox/browser 3 tab
+devgeek     9151  0.0  0.2 1313252 20788 ?       Sl   02:03   0:00 /usr/bin/snap userd
+devgeek     9212  1.2  1.9 2515316 159448 ?      Sl   02:03   0:03 /snap/firefox/5437/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0 -prefsLen 37270 -prefMapHandle 1 -prefMapSize 260112 -jsInitHandle 2 -jsInitLen 234660 -parentBuildID 20241210134022 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {d42da015-8d5d-4855-a60a-21e4d87fdadc} -parentPid 8795 -crashReporter 6 -greomni /snap/firefox/5437/usr/lib/firefox/omni.ja -appomni /snap/firefox/5437/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5437/usr/lib/firefox/browser 4 tab
+devgeek     9283  0.0  0.5 212064 46592 ?        Sl   02:03   0:00 /snap/firefox/5437/usr/lib/firefox/firefox -contentproc -parentBuildID 20241210134022 -sandboxingKind 0 -prefsHandle 0 -prefsLen 42338 -prefMapHandle 1 -prefMapSize 260112 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {08493e62-d83f-485c-853b-dd4175468c57} -parentPid 8795 -crashReporter 5 -appDir /snap/firefox/5437/usr/lib/firefox/browser 5 utility
+devgeek     9290  0.1  0.9 2401332 75508 ?       Sl   02:03   0:00 /snap/firefox/5437/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0 -prefsLen 37363 -prefMapHandle 1 -prefMapSize 260112 -jsInitHandle 2 -jsInitLen 234660 -parentBuildID 20241210134022 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {06391ddf-e15b-41ae-9039-184bcec738f4} -parentPid 8795 -crashReporter 6 -greomni /snap/firefox/5437/usr/lib/firefox/omni.ja -appomni /snap/firefox/5437/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5437/usr/lib/firefox/browser 6 tab
+devgeek     9298  0.1  0.9 2401328 76400 ?       Sl   02:03   0:00 /snap/firefox/5437/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0 -prefsLen 37363 -prefMapHandle 1 -prefMapSize 260112 -jsInitHandle 2 -jsInitLen 234660 -parentBuildID 20241210134022 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {0959b79c-c54b-43cb-9559-d87e81a7c76b} -parentPid 8795 -crashReporter 6 -greomni /snap/firefox/5437/usr/lib/firefox/omni.ja -appomni /snap/firefox/5437/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5437/usr/lib/firefox/browser 7 tab
+devgeek     9433  0.1  0.9 2401328 75604 ?       Sl   02:03   0:00 /snap/firefox/5437/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0 -prefsLen 37496 -prefMapHandle 1 -prefMapSize 260112 -jsInitHandle 2 -jsInitLen 234660 -parentBuildID 20241210134022 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {6aafe085-340c-4909-9a46-1072180859b9} -parentPid 8795 -crashReporter 6 -greomni /snap/firefox/5437/usr/lib/firefox/omni.ja -appomni /snap/firefox/5437/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5437/usr/lib/firefox/browser 8 tab
+root        9469  0.0  0.0      0     0 ?        I    02:03   0:00 [kworker/2:0-i915-unordered]
+devgeek     9484  0.0  0.1 397420  8832 ?        Sl   02:03   0:00 /usr/libexec/gvfsd-network --spawner :1.13 /org/gtk/gvfs/exec_spaw/1
+root        9505  0.4  0.0      0     0 ?        I    02:03   0:01 [kworker/2:2-i915-unordered]
+devgeek     9522  0.0  0.1 325488  8832 ?        Sl   02:03   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.13 /org/gtk/gvfs/exec_spaw/3
+root        9615  0.0  0.0      0     0 ?        I    02:04   0:00 [kworker/3:0-kacpi_notify]
+root        9616  0.0  0.0      0     0 ?        I    02:04   0:00 [kworker/3:3-events]
+devgeek     9654  0.7  1.0 1211968400 85260 ?    Sl   02:05   0:01 /usr/share/code/code /usr/share/code/resources/app/extensions/markdown-language-features/dist/serverWorkerMain --node-ipc --clientProcessId=8510
+devgeek     9670  2.4  1.7 1212044164 139776 ?   Sl   02:05   0:04 /usr/share/code/code --type=renderer --crashpad-handler-pid=8422 --enable-crash-reporter=76a074d6-e04a-42ef-9605-4ea2ded07889,no_channel --user-data-dir=/home/devgeek/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1734982602135179 --launch-time-ticks=16101435364 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,16971799405868775016,17460685567655145092,262144 --disable-features=CalculateNativeWinOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:e4880027-22e0-4788-a452-9d3b7fc5a707
+root        9746  0.0  0.0      0     0 ?        I    02:07   0:00 [kworker/1:2-kacpi_notify]
+root        9748  0.0  0.0      0     0 ?        I    02:07   0:00 [kworker/3:4-events]
+root        9754  0.0  0.0      0     0 ?        I    02:07   0:00 [kworker/0:1-events]
+root        9757  0.0  0.0      0     0 ?        I    02:07   0:00 [kworker/0:3]
+devgeek     9762  0.0  0.0  21332  3328 pts/0    R+   02:08   0:00 ps aux

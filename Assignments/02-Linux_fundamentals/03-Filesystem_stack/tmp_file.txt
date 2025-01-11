@@ -1,0 +1,4 @@
+Assignment_1.md
+figures
+practice
+tmp_file.txt
